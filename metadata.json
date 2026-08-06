@@ -1,0 +1,6 @@
+{
+  "name": "VisionMind AI",
+  "description": "An expert AI computer vision tutor, researcher, and mentor with an interactive knowledge graph, custom derivations, code labs, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
